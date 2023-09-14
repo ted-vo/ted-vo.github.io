@@ -19,4 +19,3 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('file_exists', Jekyll::FileExistsTag)

@@ -30,7 +30,9 @@
       "startDate": "2022-04-02",
       "endDate": "now",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "Inspirelab",
@@ -39,7 +41,9 @@
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "Inspirelab",
@@ -48,7 +52,9 @@
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "Vitalify Asia",
@@ -57,7 +63,9 @@
       "startDate": "2019-10-10",
       "endDate": "2021-04-15",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "Finance Technology Solutions",
@@ -66,7 +74,9 @@
       "startDate": "2019-03-01",
       "endDate": "2019-09-01",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     },
     {
       "name": "Horical",
@@ -75,7 +85,9 @@
       "startDate": "2017-09-01",
       "endDate": "2019-02-28",
       "summary": "",
-      "highlights": [""]
+      "highlights": [
+        ""
+      ]
     }
   ],
   "education": [
@@ -87,7 +99,9 @@
       "startDate": "2012-09-05",
       "endDate": "2018-04-01",
       "score": "",
-      "courses": [""]
+      "courses": [
+        ""
+      ]
     }
   ],
   "awards": [],
@@ -97,15 +111,15 @@
   "languages": [
     {
       "language": "Vietnamese",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Limited working proficiency"
     },
     {
       "language": "Chinese",
-      "fluency": "Fluent"
+      "fluency": "No proficiency"
     }
   ],
   "interests": [],

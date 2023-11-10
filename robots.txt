@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ted-vo.github.io/sitemap.xml
+Sitemap: https://ted-vo.github.io/blog//sitemap.xml

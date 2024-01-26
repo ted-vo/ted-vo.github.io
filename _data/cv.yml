@@ -5,6 +5,8 @@
       value: Võ Thành Nhơn
     - name: Date of Birth
       value: 09th September 1994
+    - name: ""
+      value: ""
     - name: Languages
       value: Vietnamese, English, Chinese
 
@@ -17,10 +19,6 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Experience
   type: time_table

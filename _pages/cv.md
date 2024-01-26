@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: Hello. Please hire me :D
+cv_pdf: resume.pdf
+description: Hello world 🌎 Please hire me to build an awesome product ✅
 ---

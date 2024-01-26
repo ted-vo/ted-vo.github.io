@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: Hello. Please hire me :D
+nav_order: 4
+cv_pdf: resume.pdf
+description: Hello world 🌎 Please hire me to build an awesome product ✅
 ---

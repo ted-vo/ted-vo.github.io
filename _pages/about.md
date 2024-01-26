@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>+84 079 309 0994</p>
-    <p>C Street, 2 District, An Khanh Ward</p>
     <p>Ho Chi Minh City</p>
 
 news: true # includes a list of news items

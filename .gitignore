@@ -10,6 +10,7 @@ Gemfile.lock
 assets/libs/
 node_modules/
 vendor
+venv
 
 assets/json/node_modules
 resume/node_modules

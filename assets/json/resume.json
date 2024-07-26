@@ -35,74 +35,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Inspirelab",
-      "position": "Site Reliability Engineer",
-      "url": "https://inspirelab.io",
-      "startDate": "2022-04-02",
-      "endDate": "now",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Inspirelab",
-      "position": "Backend Developer",
-      "url": "https://inspirelab.io",
-      "startDate": "2021-06-02",
-      "endDate": "2022-04-01",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Inspirelab",
-      "position": "Android Leader",
-      "url": "https://inspirelab.io",
-      "startDate": "2021-04-19",
-      "endDate": "2021-06-01",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Vitalify Asia",
-      "position": "Android Developer",
-      "url": "https://vitalify.asia",
-      "startDate": "2019-10-10",
-      "endDate": "2021-04-15",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Finance Technology Solutions",
-      "position": "Android Developer",
-      "url": "Closed",
-      "startDate": "2019-03-01",
-      "endDate": "2019-09-01",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Horical",
-      "position": "Fullstack Developer",
-      "url": "Closed",
-      "startDate": "2017-09-01",
-      "endDate": "2019-02-28",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Posts and Telecommunication Institute of Technology, Ho Chi Minh, Viet Nam",
@@ -164,8 +96,7 @@
         "Setup Gitlab self host runner for CI/CD",
         "Write helm chart for Golang app built config with infras",
         "Write shell for backend developer setup local environment"
-      ],
-      "location": "42 - B2 st, An Loi Dong Ward, 2 District, Thu Duc City, Ho Chi Minh"
+      ]
     },
     {
       "name": "Inspirelab",

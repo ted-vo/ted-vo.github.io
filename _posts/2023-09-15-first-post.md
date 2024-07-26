@@ -7,4 +7,4 @@ tags: fun hello-world
 categories: sample-posts
 ---
 
-This is an first post.
+The post message: "Hello world"

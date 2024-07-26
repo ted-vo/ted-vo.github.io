@@ -96,8 +96,7 @@
         "Setup Gitlab self host runner for CI/CD",
         "Write helm chart for Golang app built config with infras",
         "Write shell for backend developer setup local environment"
-      ],
-      "location": "42 - B2 st, An Loi Dong Ward, 2 District, Thu Duc City, Ho Chi Minh"
+      ]
     },
     {
       "name": "Inspirelab",

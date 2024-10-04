@@ -173,16 +173,16 @@
   ],
   "interests": [
     {
-      "name": "Open Source"
+      "name": "Computer",
+      "keywords": ["Computer Science", "Open Source"]
     },
     {
-      "name": "Computer Science"
+      "name": "Fitness",
+      "keywords": ["Hiking/Camping"]
     },
     {
-      "name": "Hiking/Camping"
-    },
-    {
-      "name": "Drum"
+      "name": "Music",
+      "keywords": ["Drums", "Guitar"]
     }
   ],
   "references": [],

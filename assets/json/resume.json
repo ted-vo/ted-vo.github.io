@@ -50,7 +50,26 @@
     {
       "name": "SRE",
       "level": "Senior",
-      "keywords": ["GCP", "Helm", "Cloudflare", "Linux", "Kubernetes", "Shell", "Terraform", "Docker", "Golang"]
+      "keywords": [
+        "GCP",
+        "Helm",
+        "Cloudflare",
+        "Linux",
+        "Kubernetes",
+        "Shell",
+        "Terraform",
+        "Docker",
+        "Golang",
+        "Istio",
+        "Envoy",
+        "Linkerd",
+        "DataDog",
+        "Grafana",
+        "Clickhouse",
+        "Elasticsearch",
+        "MySQL",
+        "Redis"
+      ]
     },
     {
       "name": "Backend Developer",

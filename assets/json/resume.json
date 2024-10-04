@@ -3,7 +3,7 @@
     "theme": "onepage-plus"
   },
   "basics": {
-    "name": "Võ Thành Nhơn ",
+    "name": "Võ Thành Nhơn (1994)",
     "label": "Software Engineer",
     "image": "http://localhost:4000/assets/img/prof_pic.jpg?1c55465c83e5848bbf81c88b8bc1425c",
     "email": "mail@tedvo.dev",
@@ -49,18 +49,18 @@
   "skills": [
     {
       "name": "SRE",
-      "level": "n/a",
-      "keywords": ["GCP", "Helm", "Cloudflare", "linux", "kubernetes", "shell", "terraform", "helm", "docker", "golang"]
+      "level": "Senior",
+      "keywords": ["GCP", "Helm", "Cloudflare", "Linux", "Kubernetes", "Shell", "Terraform", "Docker", "Golang"]
     },
     {
       "name": "Backend Developer",
       "level": "Senior",
-      "keywords": ["java", "nodejs", "golang", "mongodb", "sql", "cryptocurrency"]
+      "keywords": ["Java", "Nodejs", "Golang", "Mongodb", "SQL", "Cryptocurrency"]
     },
     {
       "name": "Android Developer",
       "level": "Senior",
-      "keywords": ["java", "kotlin", "cryptocurrency"]
+      "keywords": ["Java", "Kotlin", "Cryptocurrency"]
     }
   ],
   "work": [
@@ -95,7 +95,7 @@
     {
       "name": "Inspirelab (closed)",
       "position": "Android Leader",
-      "url": "closed",
+      "url": "Closed",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members",
@@ -157,10 +157,13 @@
       "name": "Open Source"
     },
     {
-      "name": "computer-science"
+      "name": "Computer Science"
     },
     {
       "name": "Hiking/Camping"
+    },
+    {
+      "name": "Drum"
     }
   ],
   "references": [],

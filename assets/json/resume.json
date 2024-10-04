@@ -95,7 +95,7 @@
     {
       "name": "Inspirelab (closed)",
       "position": "Android Leader",
-      "url": "closed",
+      "url": "Closed",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members",
@@ -157,10 +157,13 @@
       "name": "Open Source"
     },
     {
-      "name": "computer-science"
+      "name": "Computer Science"
     },
     {
       "name": "Hiking/Camping"
+    },
+    {
+      "name": "Drum"
     }
   ],
   "references": [],

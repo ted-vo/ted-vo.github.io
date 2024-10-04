@@ -9,7 +9,7 @@
     "email": "mail@tedvo.dev",
     "phone": "(+84) 793 090994",
     "url": "https://tedvo.dev",
-    "summary": "a simple IT guy",
+    "summary": "I graduated with software engineer. Begin at Android Developer. And then, I work with NodeJS as Backend Developer. As an Android Developer with 4 years of experience and 2 years of experience as an Backend Developer. For now and future, I am focusing on SRE (Site Reliability Engineer). I have 2.5 years experience with SRE.",
     "location": {
       "address": "31 - 1st Street, Paris Hoang Kim apartment building, Luong Dinh Cua St",
       "postalCode": "HCM 713100",
@@ -95,7 +95,7 @@
     {
       "name": "Inspirelab (closed)",
       "position": "Android Leader",
-      "url": "Closed",
+      "url": "closed",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members",
@@ -157,13 +157,10 @@
       "name": "Open Source"
     },
     {
-      "name": "Computer Science"
+      "name": "computer-science"
     },
     {
       "name": "Hiking/Camping"
-    },
-    {
-      "name": "Drum"
     }
   ],
   "references": [],

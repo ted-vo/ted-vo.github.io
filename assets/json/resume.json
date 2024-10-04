@@ -11,7 +11,7 @@
     "url": "https://tedvo.dev",
     "summary": "a simple IT guy",
     "location": {
-      "address": "Paris Hoang Kim apartment building, Luong Dinh Cua St",
+      "address": "31 - 1st Street, Paris Hoang Kim apartment building, Luong Dinh Cua St",
       "postalCode": "HCM 713100",
       "city": "Ho Chi Minh",
       "countryCode": "VN",
@@ -50,44 +50,24 @@
     {
       "name": "SRE",
       "level": "n/a",
-      "keywords": [
-        "GCP",
-        "Helm",
-        "Cloudflare",
-        "linux",
-        "kubernetes",
-        "shell",
-        "terraform",
-        "helm",
-        "docker",
-        "golang"
-      ]
+      "keywords": ["GCP", "Helm", "Cloudflare", "linux", "kubernetes", "shell", "terraform", "helm", "docker", "golang"]
     },
     {
       "name": "Backend Developer",
       "level": "Senior",
-      "keywords": [
-        "java",
-        "nodejs",
-        "golang",
-        "mongodb",
-        "sql"
-      ]
+      "keywords": ["java", "nodejs", "golang", "mongodb", "sql", "cryptocurrency"]
     },
     {
       "name": "Android Developer",
       "level": "Senior",
-      "keywords": [
-        "java",
-        "kotlin"
-      ]
+      "keywords": ["java", "kotlin", "cryptocurrency"]
     }
   ],
   "work": [
     {
-      "name": "Inspirelab",
+      "name": "Inspirelab (closed)",
       "position": "Site Reliability Engineer",
-      "url": "https://inspirelab.io",
+      "url": "Closed",
       "startDate": "2022-04-02",
       "endDate": "2024-04-01",
       "summary": "Setup and manage development infrastructure",
@@ -100,28 +80,26 @@
       ]
     },
     {
-      "name": "Inspirelab",
+      "name": "Inspirelab (closed)",
       "position": "Backend Developer",
-      "url": "https://inspirelab.io",
+      "url": "Closed",
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
       "summary": "Develop features",
       "highlights": [
         "Language using is Java 17",
-        "Maintain and develop new feature of ICO(Inital coin offering) system"
+        "Maintain and develop new feature of ICO(Inital coin offering) system",
+        "Develop reward crypto pool prize for game portal"
       ]
     },
     {
-      "name": "Inspirelab",
+      "name": "Inspirelab (closed)",
       "position": "Android Leader",
-      "url": "https://inspirelab.io",
+      "url": "closed",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members",
-      "highlights": [
-        "Struture architecture of the application",
-        "Manage tasks"
-      ]
+      "highlights": ["Struture architecture of the application", "Manage tasks"]
     },
     {
       "name": "Vitalify Asia",
@@ -144,9 +122,7 @@
       "startDate": "2019-03-01",
       "endDate": "2019-09-01",
       "summary": "Develop new feature",
-      "highlights": [
-        "Develop tradingviews and charts for crypto application. Stockchart (time-line, k-line, macd, kdj, rsi...)"
-      ]
+      "highlights": ["Develop tradingviews and charts for crypto application. Stockchart (time-line, k-line, macd, kdj, rsi...)"]
     },
     {
       "name": "Horical (closed)",
@@ -155,11 +131,7 @@
       "startDate": "2017-09-01",
       "endDate": "2019-02-28",
       "summary": "Maintain a outsoure project and develop 2 product projects",
-      "highlights": [
-        "Maintain car fixing service application.",
-        "Develop Coffee-shop management system.",
-        "Develop ERP application."
-      ]
+      "highlights": ["Maintain car fixing service application.", "Develop Coffee-shop management system.", "Develop ERP application."]
     }
   ],
   "volunteer": [],

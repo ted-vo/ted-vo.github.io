@@ -43,7 +43,7 @@
       "studyType": "The Degree of Engineer",
       "startDate": "2012-09-05",
       "endDate": "2018-04-01",
-      "score": ""
+      "score": "2.66"
     }
   ],
   "skills": [
@@ -68,13 +68,14 @@
         "Clickhouse",
         "Elasticsearch",
         "MySQL",
-        "Redis"
+        "Redis",
+        "Gitlab CI/CD"
       ]
     },
     {
       "name": "Backend Developer",
       "level": "Senior",
-      "keywords": ["Java", "Nodejs", "Golang", "Mongodb", "SQL", "Cryptocurrency"]
+      "keywords": ["Java", "Nodejs", "Golang", "Mongodb", "SQL", "Cryptocurrency", "Microservices"]
     },
     {
       "name": "Android Developer",
@@ -89,12 +90,13 @@
       "url": "Closed",
       "startDate": "2022-04-02",
       "endDate": "2024-04-01",
-      "summary": "Setup and manage development infrastructure",
+      "summary": "Setup and manage infrastructure",
       "highlights": [
         "Manage GCP (Google Cloud Platform) infras",
         "Write terraform manage infras as code",
         "Setup Gitlab self host runner for CI/CD",
-        "Write helm chart for Golang app built config with infras",
+        "Setup git workflows",
+        "Write helm-chart for Golang app built-in config with infras",
         "Write shell for backend developer setup local environment"
       ]
     },
@@ -104,7 +106,7 @@
       "url": "Closed",
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
-      "summary": "Develop features",
+      "summary": "Develop new features",
       "highlights": [
         "Language using is Java 17",
         "Maintain and develop new feature of ICO(Inital coin offering) system",
@@ -140,7 +142,7 @@
       "url": "Closed",
       "startDate": "2019-03-01",
       "endDate": "2019-09-01",
-      "summary": "Develop new feature",
+      "summary": "Develop new features",
       "highlights": ["Develop tradingviews and charts for crypto application. Stockchart (time-line, k-line, macd, kdj, rsi...)"]
     },
     {
@@ -150,7 +152,7 @@
       "startDate": "2017-09-01",
       "endDate": "2019-02-28",
       "summary": "Maintain a outsoure project and develop 2 product projects",
-      "highlights": ["Maintain car fixing service application.", "Develop Coffee-shop management system.", "Develop ERP application."]
+      "highlights": ["Maintain car fixing service application.", "Develop Coffee-shop management system.", "Develop ERP system."]
     }
   ],
   "volunteer": [],

@@ -1,72 +1,82 @@
-lockfileVersion: "6.0"
+lockfileVersion: '9.0'
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  jsonresume-theme-onepage-plus:
-    specifier: ^1.0.1
-    version: 1.0.1
+importers:
+
+  .:
+    dependencies:
+      jsonresume-theme-onepage-plus:
+        specifier: ^1.0.1
+        version: 1.0.1
 
 packages:
-  /amdefine@1.0.1:
-    resolution: { integrity: sha512-S2Hw0TtNkMJhIabBwIojKL9YHO5T0n5eNqWJ7Lrlel/zDbftQpxpapi8tZs3X1HWa+u+QeydGmzzNU0m09+Rcg== }
-    engines: { node: ">=0.4.2" }
-    requiresBuild: true
-    dev: false
-    optional: true
 
-  /async@0.2.10:
-    resolution: { integrity: sha512-eAkdoKxU6/LkKDBzLpT+t6Ff5EtfSF4wx1WfJiPEEV7WNLnDaRXk0oVysiEPm262roaachGexwUv94WhSgN5TQ== }
-    requiresBuild: true
-    dev: false
-    optional: true
+  amdefine@1.0.1:
+    resolution: {integrity: sha512-S2Hw0TtNkMJhIabBwIojKL9YHO5T0n5eNqWJ7Lrlel/zDbftQpxpapi8tZs3X1HWa+u+QeydGmzzNU0m09+Rcg==}
+    engines: {node: '>=0.4.2'}
 
-  /handlebars@2.0.0:
-    resolution: { integrity: sha512-OdfkaA0M8qGD5EJBkMw3TpguSWl6lz94jdyVmYs5e4TpwepZJ35Y5XlchsIwcN7NP/yzNa3MJYd/dRTO7Nf/fg== }
-    engines: { node: ">=0.4.7" }
+  async@0.2.10:
+    resolution: {integrity: sha512-eAkdoKxU6/LkKDBzLpT+t6Ff5EtfSF4wx1WfJiPEEV7WNLnDaRXk0oVysiEPm262roaachGexwUv94WhSgN5TQ==}
+
+  handlebars@2.0.0:
+    resolution: {integrity: sha512-OdfkaA0M8qGD5EJBkMw3TpguSWl6lz94jdyVmYs5e4TpwepZJ35Y5XlchsIwcN7NP/yzNa3MJYd/dRTO7Nf/fg==}
+    engines: {node: '>=0.4.7'}
     hasBin: true
+
+  jsonresume-theme-onepage-plus@1.0.1:
+    resolution: {integrity: sha512-wiDJ6CjsKSi7ZYHXH7Ume4EDcnmSyLhIVMQO3PYKbpQCaLZQkM2E2gj8ViHoFrWgbRfyBPvxIN+95Ow+bqnVrw==}
+
+  optimist@0.3.7:
+    resolution: {integrity: sha512-TCx0dXQzVtSCg2OgY/bO9hjM9cV4XYx09TVK+s3+FhkjT6LovsLe+pPMzpWf+6yXK/hUizs2gUoTw3jHM0VaTQ==}
+
+  source-map@0.1.43:
+    resolution: {integrity: sha512-VtCvB9SIQhk3aF6h+N85EaqIaBFIAfZ9Cu+NJHHVvc8BbEcnvDcFw6sqQ2dQrT6SlOrZq3tIvyD9+EGq/lJryQ==}
+    engines: {node: '>=0.8.0'}
+
+  uglify-js@2.3.6:
+    resolution: {integrity: sha512-T2LWWydxf5+Btpb0S/Gg/yKFmYjnX9jtQ4mdN9YRq73BhN21EhU0Dvw3wYDLqd3TooGUJlCKf3Gfyjjy/RTcWA==}
+    engines: {node: '>=0.4.0'}
+    hasBin: true
+
+  wordwrap@0.0.3:
+    resolution: {integrity: sha512-1tMA907+V4QmxV7dbRvb4/8MaRALK6q9Abid3ndMYnbyo8piisCmeONVqVSXqQA3KaP4SLt5b7ud6E2sqP8TFw==}
+    engines: {node: '>=0.4.0'}
+
+snapshots:
+
+  amdefine@1.0.1:
+    optional: true
+
+  async@0.2.10:
+    optional: true
+
+  handlebars@2.0.0:
     dependencies:
       optimist: 0.3.7
     optionalDependencies:
       uglify-js: 2.3.6
-    dev: false
 
-  /jsonresume-theme-onepage-plus@1.0.1:
-    resolution: { integrity: sha512-wiDJ6CjsKSi7ZYHXH7Ume4EDcnmSyLhIVMQO3PYKbpQCaLZQkM2E2gj8ViHoFrWgbRfyBPvxIN+95Ow+bqnVrw== }
+  jsonresume-theme-onepage-plus@1.0.1:
     dependencies:
       handlebars: 2.0.0
-    dev: false
 
-  /optimist@0.3.7:
-    resolution: { integrity: sha512-TCx0dXQzVtSCg2OgY/bO9hjM9cV4XYx09TVK+s3+FhkjT6LovsLe+pPMzpWf+6yXK/hUizs2gUoTw3jHM0VaTQ== }
+  optimist@0.3.7:
     dependencies:
       wordwrap: 0.0.3
-    dev: false
 
-  /source-map@0.1.43:
-    resolution: { integrity: sha512-VtCvB9SIQhk3aF6h+N85EaqIaBFIAfZ9Cu+NJHHVvc8BbEcnvDcFw6sqQ2dQrT6SlOrZq3tIvyD9+EGq/lJryQ== }
-    engines: { node: ">=0.8.0" }
-    requiresBuild: true
+  source-map@0.1.43:
     dependencies:
       amdefine: 1.0.1
-    dev: false
     optional: true
 
-  /uglify-js@2.3.6:
-    resolution: { integrity: sha512-T2LWWydxf5+Btpb0S/Gg/yKFmYjnX9jtQ4mdN9YRq73BhN21EhU0Dvw3wYDLqd3TooGUJlCKf3Gfyjjy/RTcWA== }
-    engines: { node: ">=0.4.0" }
-    hasBin: true
-    requiresBuild: true
+  uglify-js@2.3.6:
     dependencies:
       async: 0.2.10
       optimist: 0.3.7
       source-map: 0.1.43
-    dev: false
     optional: true
 
-  /wordwrap@0.0.3:
-    resolution: { integrity: sha512-1tMA907+V4QmxV7dbRvb4/8MaRALK6q9Abid3ndMYnbyo8piisCmeONVqVSXqQA3KaP4SLt5b7ud6E2sqP8TFw== }
-    engines: { node: ">=0.4.0" }
-    dev: false
+  wordwrap@0.0.3: {}

@@ -9,7 +9,7 @@
     "email": "mail@tedvo.dev",
     "phone": "(+84) 793 090994",
     "url": "https://tedvo.dev",
-    "summary": "I graduated with software engineer. Begin at Android Developer. And then, I work with NodeJS as Backend Developer. As an Android Developer with 4 years of experience and 2 years of experience as an Backend Developer. For now and future, I am focusing on SRE (Site Reliability Engineer). I have 2.5 years experience with SRE.",
+    "summary": "I graduated with software engineer. Begin at Android Developer. And then, I work with NodeJS as Backend Developer. As an Android Developer with 4 years of experience and 2 years of experience as an Backend Developer. For now and future, I am focusing on SRE (Site Reliability Engineer). I have 2 years experience with SRE.",
     "location": {
       "address": "31 - 1st Street, Paris Hoang Kim apartment building, Luong Dinh Cua St",
       "postalCode": "HCM 713100",
@@ -89,28 +89,33 @@
       "position": "Site Reliability Engineer",
       "url": "Closed",
       "startDate": "2022-04-02",
-      "endDate": "2024-04-01",
+      "endDate": "2024-11-30",
       "summary": "Setup and manage infrastructure",
       "highlights": [
-        "Manage GCP (Google Cloud Platform) infras",
-        "Write terraform manage infras as code",
-        "Setup Gitlab self host runner for CI/CD",
-        "Setup git workflows",
-        "Write helm-chart for Golang app built-in config with infras",
-        "Write shell for backend developer setup local environment"
+        "Manage GCP (Google Cloud Platform) infras.",
+        "Using terraform manage infras as code: Network, IAM, GKE, GCE, Storage, Secret Manager, KMS, CloudRun, CloudSQL, CloudFunction.",
+        "Setup Gitlab self host runner for CI/CD.",
+        "Setup git workflows and centralize CI/CD workflows for apps.",
+        "Using helm-chart manage configure and deloyment Golang app built-in config with infras. Optional built-in with sidecar: sevicemesh (istio, linkerd), redis, DataDog.",
+        "Using shellscript devlop internal tool for backend developer setup local environment. Limit and grant permission to access dev environment and internal apps.",
+        "Monitoring GCP Resources to balance workload with cost.",
+        "Research OpenOberve to planning replace DataDog for optimize cost.",
+        "Contribute to build architecture backend systems."
       ]
     },
     {
       "name": "Inspirelab (closed)",
-      "position": "Backend Developer",
+      "position": "Back End Developer",
       "url": "Closed",
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
       "summary": "Develop new features",
       "highlights": [
         "Language using is Java 17",
-        "Maintain and develop new feature of ICO(Inital coin offering) system",
-        "Develop reward crypto pool prize for game portal"
+        "Maintenance and develop new feature of ICO (Initial coin offering) system",
+        "Fixed critical bug of forgot password feature.",
+        "Develop user referral feature",
+        "Develop reward cryptocurrency pool prize for game portal."
       ]
     },
     {
@@ -119,8 +124,8 @@
       "url": "Closed",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
-      "summary": "Form new Android team with 2 members",
-      "highlights": ["Struture architecture of the application", "Manage tasks"]
+      "summary": "Form new Android team with 2 members to build super application for gaming platform.",
+      "highlights": ["Structure architecture of the super application like Grab but for gaming.", "Manage and assign tasks for team member.", "Develop SDK for app in app"]
     },
     {
       "name": "Vitalify Asia",
@@ -128,12 +133,12 @@
       "url": "https://vitalify.asia",
       "startDate": "2019-10-10",
       "endDate": "2021-04-15",
-      "summary": "Maintain and develop outsoure projects",
+      "summary": "Maintenance and develop outsoure projects",
       "highlights": [
-        "Maintain Golf Club application.",
-        "Develop new healthcare application. The application sync data from healthcare device via BLE",
-        "Maintain SDK of the ads ecosystem. The SDKs contact with the device via BLE. Restruct the new version of SDK with simple integration and high-performance.",
-        "Develop the new plugin SDK for application build with Cordova"
+        "Maintenance Golf Club application.",
+        "Develop new healthcare application. The application sync data from healthcare device via BLE.",
+        "Maintenance SDK of the ads ecosystem. The SDKs contact with the device via BLE. Restruct the new version of SDK with simple integration and high-performance.",
+        "Develop the new plugin SDK for application build with Cordova."
       ]
     },
     {
@@ -143,7 +148,7 @@
       "startDate": "2019-03-01",
       "endDate": "2019-09-01",
       "summary": "Develop new features",
-      "highlights": ["Develop tradingviews and charts for crypto application. Stockchart (time-line, k-line, macd, kdj, rsi...)"]
+      "highlights": ["Develop tradingviews and charts for cryptocurrency application. Stockchart (time-line, k-line, macd, kdj, rsi...)"]
     },
     {
       "name": "Horical (closed)",
@@ -151,8 +156,8 @@
       "url": "Closed",
       "startDate": "2017-09-01",
       "endDate": "2019-02-28",
-      "summary": "Maintain a outsoure project and develop 2 product projects",
-      "highlights": ["Maintain car fixing service application.", "Develop Coffee-shop management system.", "Develop ERP system."]
+      "summary": "Maintenance a outsoure project and develop 2 product projects",
+      "highlights": ["Maintenance car fixing service application.", "Develop Coffee-shop management system.", "Develop ERP client android application."]
     }
   ],
   "volunteer": [],

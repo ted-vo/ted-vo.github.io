@@ -13,7 +13,7 @@
     "location": {
       "address": "31 - 1st Street, Paris Hoang Kim apartment building, Luong Dinh Cua St",
       "postalCode": "HCM 713100",
-      "city": "Ho Chi Minh",
+      "city": "Thu Duc",
       "countryCode": "VN",
       "region": "Ho CHi Minh"
     },
@@ -86,7 +86,7 @@
   "work": [
     {
       "name": "Inspirelab",
-      "position": "Site Rliability Engineer",
+      "position": "Site Reliability Engineer",
       "url": "",
       "startDate": "2022-04-02",
       "endDate": "2024-11-30",
@@ -111,7 +111,7 @@
       "endDate": "2022-04-01",
       "summary": "Develop new features",
       "highlights": [
-        "Language using is Java 17",
+        "Language using is Java (17)",
         "Maintenance and develop new feature of ICO (Initial coin offering) system",
         "Fixed critical bug of forgot password feature.",
         "Develop user referral feature",

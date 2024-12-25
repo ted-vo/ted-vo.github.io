@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 [ $(resume -V) ] ||
-	(
-		echo "resume cli not found. Installing...\n"
-		pnpm install -g resume-cli
-	)
+  (
+    echo "resume cli not found. Installing...\n"
+    pnpm install -g resume-cli
+  )
 
 pnpm i
 

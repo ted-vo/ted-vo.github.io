@@ -85,9 +85,9 @@
   ],
   "work": [
     {
-      "name": "Inspirelab (closed)",
-      "position": "Site Reliability Engineer",
-      "url": "Closed",
+      "name": "Inspirelab",
+      "position": "Site Rliability Engineer",
+      "url": "",
       "startDate": "2022-04-02",
       "endDate": "2024-11-30",
       "summary": "Setup and manage infrastructure",
@@ -104,9 +104,9 @@
       ]
     },
     {
-      "name": "Inspirelab (closed)",
+      "name": "Inspirelab",
       "position": "Back End Developer",
-      "url": "Closed",
+      "url": "",
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
       "summary": "Develop new features",
@@ -119,9 +119,9 @@
       ]
     },
     {
-      "name": "Inspirelab (closed)",
+      "name": "Inspirelab",
       "position": "Android Leader",
-      "url": "Closed",
+      "url": "",
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members to build super application for gaming platform.",
@@ -142,18 +142,18 @@
       ]
     },
     {
-      "name": "Finance Technology Solutions (closed)",
+      "name": "Finance Technology Solutions",
       "position": "Android Developer",
-      "url": "Closed",
+      "url": "",
       "startDate": "2019-03-01",
       "endDate": "2019-09-01",
       "summary": "Develop new features",
       "highlights": ["Develop tradingviews and charts for cryptocurrency application. Stockchart (time-line, k-line, macd, kdj, rsi...)"]
     },
     {
-      "name": "Horical (closed)",
+      "name": "Horical",
       "position": "Fullstack Developer",
-      "url": "Closed",
+      "url": "",
       "startDate": "2017-09-01",
       "endDate": "2019-02-28",
       "summary": "Maintenance a outsoure project and develop 2 product projects",

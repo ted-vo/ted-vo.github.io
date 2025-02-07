@@ -56,7 +56,7 @@
         "Cloudflare",
         "Linux",
         "Kubernetes",
-        "Shell",
+        "Shell Script",
         "Terraform",
         "Docker",
         "Golang",
@@ -90,17 +90,16 @@
       "url": "",
       "startDate": "2022-04-02",
       "endDate": "2024-11-30",
-      "summary": "Setup and manage infrastructure",
+      "summary": "Recognizing my passion for system administration and leveraging my experience from my freelance project, I transition to new position, where I managed infras of new project. I have to learn a lot of new things by 200% of my powers. I susccessful setup infrastructure DEV / PROD environment on Google Cloud Platform.",
       "highlights": [
-        "Manage GCP (Google Cloud Platform) infras.",
-        "Using terraform manage infras as code: Network, IAM, GKE, GCE, Storage, Secret Manager, KMS, CloudRun, CloudSQL, CloudFunction.",
-        "Setup Gitlab self host runner for CI/CD.",
-        "Setup git workflows and centralize CI/CD workflows for apps.",
-        "Using helm-chart manage configure and deloyment Golang app built-in config with infras. Optional built-in with sidecar: sevicemesh (istio, linkerd), redis, DataDog.",
-        "Using shellscript devlop internal tool for backend developer setup local environment. Limit and grant permission to access dev environment and internal apps.",
-        "Monitoring GCP Resources to balance workload with cost.",
-        "Research OpenOberve to planning replace DataDog for optimize cost.",
-        "Contribute to build architecture backend systems."
+        "I writed terraform code to managed resource from scratch. I have done with modules: VPC Network, IAM, GKE, GCE, Storage, Secret Manager, KMS, CloudRun, CloudSQL, CloudFunction.",
+        "I define Git workflows for developers.",
+        "I used Gitlab CI/CD to build automation system to delivery and deploy applications.",
+        "I writed helm-chart to manage configurations and deloyment Golang application. Optional built-in with sidecar: sevicemesh (Istio, Linkerd), Redis, DataDog.",
+        "I writed shell script develop internal tools for Backend Developer setup local environment. Limit and grant permission to access dev environment and internal apps.",
+        "I monitor GCP resources to balance workloads per nodes and reduce cost.",
+        "I research OpenObserve to planning drop DataDog for optimize cost.",
+        "I also contribute to architecture Backend Systems."
       ]
     },
     {
@@ -109,13 +108,13 @@
       "url": "",
       "startDate": "2021-06-02",
       "endDate": "2022-04-01",
-      "summary": "Develop new features",
+      "summary": "Due to a change in company direction, I transitioned to a Backend Developer role, where I maintained two critical projects.",
       "highlights": [
         "Language using is Java (17)",
-        "Maintenance and develop new feature of ICO (Initial coin offering) system",
-        "Fixed critical bug of forgot password feature.",
-        "Develop user referral feature",
-        "Develop reward cryptocurrency pool prize for game portal."
+        "I maintenance and develop new feature of Initial coin offering (ICO) system.",
+        "I fixed critical bug of forgot password feature.",
+        "I develop user referral feature",
+        "I develop reward cryptocurrency pool prize for game portal."
       ]
     },
     {
@@ -125,7 +124,7 @@
       "startDate": "2021-04-19",
       "endDate": "2021-06-01",
       "summary": "Form new Android team with 2 members to build super application for gaming platform.",
-      "highlights": ["Structure architecture of the super application like Grab but for gaming.", "Manage and assign tasks for team member.", "Develop SDK for app in app"]
+      "highlights": ["Structure architecture of the super application like Grab but for gaming.", "Manage and assign tasks for team member.", "I develop blockchain payment SDK for App in App"]
     },
     {
       "name": "Vitalify Asia",
@@ -171,11 +170,7 @@
     },
     {
       "language": "English",
-      "fluency": "Limited working proficiency"
-    },
-    {
-      "language": "Chinese",
-      "fluency": "No proficiency"
+      "fluency": "Good at read and writing. Limited at speaking"
     }
   ],
   "interests": [

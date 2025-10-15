@@ -92,7 +92,7 @@
       "position": "Senior DevOps Engineer",
       "url": "https://vsol.io",
       "startDate": "2025-03-18",
-      "summary": "Mainenance 4 legacy projects and setup 3 new projects.",
+      "summary": "Maintenance 4 legacy projects and setup 3 new projects.",
       "highlights": [
         "I refactor CI/CD pipelines for multi projects on Azure Devops. By write reusable templates then apply to build (Java, .NET, Ruby), deploy (Docker on VM, GCP CloudRun, APIGee Proxies, Azure Function, Azure Container, Azure Static WebApp).",
         "I re-configure security for APIGee proxies.",
